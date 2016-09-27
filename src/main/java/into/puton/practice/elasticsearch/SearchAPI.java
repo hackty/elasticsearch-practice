@@ -148,7 +148,7 @@ public class SearchAPI {
 
 //        aggregations(client);
 
-        terminateAfter(client);
+//        terminateAfter(client);
 
     }
 
